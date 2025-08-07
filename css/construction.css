@@ -52,3 +52,33 @@ nav a:hover {
     padding-left: 350px;
   
 }
+.images {
+  
+  
+   align-items: center;
+}
+
+.footer{
+    background-color: #002147;
+    color: #FFC400; 
+    
+    font-size: 14px;
+ 
+}
+.footer2{
+    background-color: #002147;
+    color: #FFC400; 
+    text-align: center;
+    font-size: 14px;
+ 
+
+}
+footer a{
+    text-align: center;
+}
+.map{
+    padding-left: 80px;
+}
+.contact{
+    text-align: center;
+}
