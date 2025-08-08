@@ -40,7 +40,7 @@ nav {
 nav a {
     color: #FFC400; 
     text-decoration: none;
-    margin-left: 20px;
+    margin-left: 19px;
     font-weight: bold;
     font-size: 17px;
 }
@@ -52,29 +52,26 @@ nav a:hover {
     text-align: left;
 }
 .section1{
-    padding-left: 350px;
+    padding-left: 300px;
   
 }
 .images {
   
    box-shadow: 10px 10px 10px 3px #302810;
-   margin: 70px;
+   margin: 60px;
+}
+.video{
+     box-shadow: 10px 10px 10px 3px #302810;
+   margin: 60px;
+   margin-left: 120px;
+   border-radius: 25px;
 }
 
 .footer{
     background-color: #002147;
     color: #FFC400; 
-    
     font-size: 14px;
- 
-}
-.footer2{
-    background-color: #002147;
-    color: #FFC400; 
-    text-align: center;
-    font-size: 14px;
- 
-
+    text-align: left;
 }
 footer a{
     text-align: center;
@@ -84,3 +81,13 @@ footer a{
 .contact{
     text-align: center;
 }
+
+.address{
+ text-align: right;
+}
+ .linear{
+    height: 80px;
+    background: linear-gradient(#FFC400,white,#FFC400);
+    text-align: center;
+    padding-top: 18px;
+ }
