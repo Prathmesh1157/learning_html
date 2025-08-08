@@ -19,6 +19,7 @@ header{
     background-color: #FFC400; 
     padding: 15px;
     border-radius: 20px;
+    position: static;
 }
 
 nav {
