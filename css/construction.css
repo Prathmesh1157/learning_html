@@ -30,7 +30,7 @@ nav {
    
     align-items: center;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 12px;
     color: #FFC400; 
   
     
@@ -40,9 +40,9 @@ nav {
 nav a {
     color: #FFC400; 
     text-decoration: none;
-    margin-left: 25px;
+    margin-left: 20px;
     font-weight: bold;
-    font-size: 24px;
+    font-size: 17px;
 }
 
 nav a:hover {
@@ -79,9 +79,8 @@ nav a:hover {
 footer a{
     text-align: center;
 }
-.map{
-    padding-left: 80px;
-}
+
+
 .contact{
     text-align: center;
 }
